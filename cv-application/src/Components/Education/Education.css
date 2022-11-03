@@ -1,0 +1,46 @@
+.education {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-top: 40px;
+}
+
+.education-title {
+  width: 200px;
+  color: #eaeaea;
+  font-size: 1.2rem;
+  text-transform: uppercase;
+  font-weight: 500;
+  letter-spacing: 4px;
+  border-bottom: 2px solid #eaeaea;
+  padding-bottom: 10px;
+}
+
+.education-section {
+  margin-top: 20px;
+}
+
+.education-section p {
+  color: #eaeaea;
+  margin-bottom: 4px;
+}
+
+.education-major {
+  font-weight: 500;
+  text-transform: uppercase;
+}
+
+.education-course {
+  font-size: 14px;
+  font-weight: 400;
+}
+
+.education-university {
+  font-size: 14px;
+  font-weight: 400;
+}
+
+.education-year {
+  font-size: 14px;
+  font-weight: 400;
+}

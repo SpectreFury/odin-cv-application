@@ -1,0 +1,39 @@
+.contacts {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-top: 80px;
+}
+
+.contacts-title {
+  width: 200px;
+  color: #eaeaea;
+  text-transform: uppercase;
+  letter-spacing: 4px;
+  font-size: 1.2rem;
+  font-weight: 500;
+  padding-bottom: 10px;
+  border-bottom: 2px solid #eaeaea;
+}
+
+.grid-container {
+  margin-top: 20px;
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+  color: #eaeaea;
+}
+
+.grid-left {
+  display: flex;
+  flex-direction: column;
+}
+
+.icons {
+  margin-bottom: 1rem;
+}
+
+.grid-right p {
+  margin-bottom: 0.8rem;
+  font-weight: 300;
+}
